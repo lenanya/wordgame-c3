@@ -3,7 +3,7 @@
   "warnings":  [ "no-unused" ],
   "dependency-search-paths":  [ "lib" ],
   "dependencies":  [  ],
-  "authors":  [ "John Doe <john.doe@example.com>" ],
+  "authors":  [ "lenanya <lenashimizu@gmx.net>" ],
   "version": "0.1.0",
   "sources":  [ "src/**" ],
   "test-sources":  [ "test/**" ],
